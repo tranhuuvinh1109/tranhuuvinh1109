@@ -74,3 +74,6 @@
   <img src="svg/tranhuuvinh-quotes.svg" width="846" height="150" alt="tranhuuvinh-official" />
 </a>
 <img src="https://github.com/tranhuuvinh1109/tranhuuvinh1109/blob/main/TRAN%20HUU%20VINH.png?raw=true" width="846" alt="tranhuuvinh-official" />
+<img src="https://github.com/tranhuuvinh1109/tranhuuvinh1109/blob/main/Reactjs.jpg?raw=true" width="846" alt="tranhuuvinh-official" />
+<img src="https://github.com/tranhuuvinh1109/tranhuuvinh1109/blob/main/Laravel.jpg?raw=true" width="846" alt="tranhuuvinh-official" />
+<img src="https://github.com/tranhuuvinh1109/tranhuuvinh1109/blob/main/Git.jpg?raw=true" width="846" alt="tranhuuvinh-official" />
