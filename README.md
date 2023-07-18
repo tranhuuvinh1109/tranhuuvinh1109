@@ -64,7 +64,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranhuuvinh-email" />
   </a>
   <a href="https://tranhuuvinh.vercel.app/" target="blank">
-    <img src="https://img.icons8.com/?size=512&id=111134&format=png" alt="tranhuuvinh-email" />
+    <img src="https://img.icons8.com/?size=512&id=111134&format=png" alt="tranhuuvinh-email" width="100"/>
   </a>
 </div>
 
