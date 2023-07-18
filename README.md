@@ -54,16 +54,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/vinhdeveloper2002" target="blank">
+  <a href="https://www.facebook.com/vinhdeveloper2002" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tranhuuvinh-facebook" />
   </a>
-  <a href="https://www.instagram.com/huuvinh09/" target="blank">
+  <a href="https://www.instagram.com/huuvinh09/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="tranhuuvinh-instagram" />
   </a>
   <a href="mailto:tranhuuvinh1109@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tranhuuvinh-email" />
   </a>
-  <a href="https://tranhuuvinh.vercel.app/" target="blank">
+  <a href="https://tranhuuvinh.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=111134&format=png" alt="tranhuuvinh-email" width="100"/>
   </a>
 </div>
